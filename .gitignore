@@ -1,3 +1,4 @@
-/flow-model/flow-model/target/
-/flow-model/flow-model/nbproject/
+/flow-model/target/
+/flow-model/nbproject/
 .DS_Store
+/flow-model/target/
